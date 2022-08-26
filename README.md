@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cmount22 Courtney Mount
 - 👀 I’m interested in coding, devops, Terraform, Ansible, CI/CD
 - 🌱 I’m currently learning ServiceNow, Terraform, AWS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything! Shoot your shot.
 - 📫 How to reach me https://www.linkedin.com/in/courtney-mount-3283829a/
 
 <!---
